@@ -1,0 +1,57 @@
+﻿  autofit.c
+  ftbase.c
+  ftbbox.c
+  ftbdf.c
+  ftbitmap.c
+  ftcid.c
+  ftfstype.c
+  ftgasp.c
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\autofit\afscript.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\autofit\autofit.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\autofit\afblue.c : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\autofit\autofit.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\autofit\afblue.c(254): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\autofit\autofit.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\autofit\afscript.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\autofit\autofit.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\autofit\afscript.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\autofit\autofit.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\autofit\afscript.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\autofit\autofit.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\autofit\afscript.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\autofit\autofit.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\autofit\afscript.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\autofit\autofit.c)
+  ftglyph.c
+  ftgxval.c
+  ftinit.c
+  ftmm.c
+  ftotval.c
+  ftpatent.c
+  ftpfr.c
+  ftstroke.c
+  ftsynth.c
+  ftsystem.c
+  fttype1.c
+  ftwinfnt.c
+  bdf.c
+  ftcache.c
+  cff.c
+  type1cid.c
+  ftgzip.c
+  ftlzw.c
+  pcf.c
+  pfr.c
+  psaux.c
+  pshinter.c
+  psmodule.c
+  raster.c
+  sfnt.c
+  smooth.c
+  truetype.c
+  type1.c
+  type42.c
+  winfnt.c
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\sfnt\ttcolr.c(127): warning C4018: '>': signed/unsigned mismatch (compiling source file ..\..\..\src\sfnt\sfnt.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\sfnt\ttcolr.c(136): warning C4018: '>': signed/unsigned mismatch (compiling source file ..\..\..\src\sfnt\sfnt.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\sfnt\ttcpal.c(121): warning C4018: '>': signed/unsigned mismatch (compiling source file ..\..\..\src\sfnt\sfnt.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\sfnt\ttcpal.c(153): warning C4018: '>': signed/unsigned mismatch (compiling source file ..\..\..\src\sfnt\sfnt.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\sfnt\ttcpal.c(174): warning C4018: '>': signed/unsigned mismatch (compiling source file ..\..\..\src\sfnt\sfnt.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\sfnt\ttcpal.c(195): warning C4018: '>': signed/unsigned mismatch (compiling source file ..\..\..\src\sfnt\sfnt.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\sfnt\ttload.c : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\sfnt\sfnt.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\truetype\ttobjs.c(984): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss (compiling source file ..\..\..\src\truetype\truetype.c)
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\vendor\freetype-2.10.0\src\truetype\ttgxvar.c(2196): warning C4701: potentially uninitialized local variable 'fvar_head' used
+  ftdebug.c
+  freetype.vcxproj -> C:\Users\csoon\OneDrive\Documents\Visual Studio 2015\Projects\Tetris\Tetris\src\vendor\freetype-2.10.0\builds\windows\vc2010\..\..\..\objs\Win32\Debug\freetype.lib

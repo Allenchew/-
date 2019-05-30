@@ -1,13 +1,5 @@
-﻿  IndexBuffer.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
-  TestClearColor.cpp
-  VertexBuffer.cpp
-  VertexArray.cpp
-  Texture.cpp
-  Source.cpp
-  Shader.cpp
-  Renderer.cpp
-  RefreshBuffer.cpp
+﻿  Source.cpp
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\source.cpp(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\source.cpp(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\csoon\onedrive\documents\visual studio 2015\projects\tetris\tetris\src\source.cpp(53): warning C4101: 'face': unreferenced local variable
   Tetris.vcxproj -> C:\Users\csoon\OneDrive\Documents\Visual Studio 2015\Projects\Tetris\Debug\Tetris.exe
-  Tetris.vcxproj -> C:\Users\csoon\OneDrive\Documents\Visual Studio 2015\Projects\Tetris\Debug\Tetris.pdb (Partial PDB)

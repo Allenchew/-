@@ -1,17 +1,18 @@
 #pragma once
-
-#include"Renderer.h"
+#include<GL/glew.h>
+#include<vector>
+#include "RenderDebug.h"
 class Texture {
 private:
-	unsigned int m_RendererID;
-	std::string m_FilePath;
-	unsigned char* m_LocalBuffer;
+	unsigned int m_RendererID[2];
+	std::vector<std::string> m_FilePath;
+	std::vector<unsigned char*> m_LocalBuffer;
 	int m_Width, m_Height, m_BPP;
 public:
-	Texture(const std::string& path);
+	Texture(const std::vector<std::string>& path);
 	~Texture();
 
-	void Bind(unsigned int slot =0) const;
+	void Bind(unsigned int slot =0)const;
 	void Unbind() const;
 
 	inline int GetWidth() const { return m_Width; }
